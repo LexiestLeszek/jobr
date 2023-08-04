@@ -1,0 +1,2 @@
+# jobr
+Automated job applications
